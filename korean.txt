@@ -1,0 +1,22 @@
+Backup copies of information, software and systems shall be maintained and regularly tested in accordance with the agreed topic-specific policy on backup.
+Information processing facilities shall be implemented with redundancy sufficient to meet availability requirements.
+Logs that record activities, exceptions, faults and other relevant events shall be produced, stored, protected and analysed.
+Networks, systems, and applications should be monitored for abnormal behavior and appropriate actions taken to assess potential information security incidents.
+The clocks of information processing systems used by the organization shall be synchronized to approved time sources.
+The use of utility programs that can be capable of overriding system and application controls shall be restricted and tightly controlled.
+Procedures and measures shall be implemented to securely manage software installation on operational systems.
+Networks and network devices shall be secured, managed and controlled to protect information in systems and applications.
+Security mechanisms, service levels and service requirements of network services shall be identified, implemented and monitored.
+Groups of information services, users and information systems shall be segregated in the organization’s networks.
+It is necessary to reduce exposure to malicious content by managing access to external websites.
+Rules for the effective use of cryptography, including cryptographic key management, shall be defined and implemented.
+Rules for the secure development of software and systems shall be established and applied.
+Information security requirements shall be identified, specified and approved when developing or acquiring applications.
+Principles for engineering secure systems shall be established, docu- mented, maintained and applied to any information system development activities.
+Security coding principles should be applied to software development.
+Security testing processes shall be defined and implemented in the development life cycle.
+The organization shall direct, monitor and review the activities related to outsourced system development.
+Development, testing and production environments shall be separated and secured.
+Changes to information processing facilities and information systems shall be subject to change management procedures.
+Test information shall be appropriately selected, protected and managed.
+Audit tests and other assurance activities involving assessment of op- erational systems shall be planned and agreed between the tester and appropriate management.
